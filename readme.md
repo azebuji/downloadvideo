@@ -17,13 +17,13 @@ Este script automatiza o download dos episódios do anime **School Rumble Ni Gak
 ### 1️⃣ Instale as dependências
 Certifique-se de ter o **Node.js** instalado. Depois, instale o Puppeteer:
 ```sh
-npm install puppeteer
+npm i ou yarn
 ```
 
 ### 2️⃣ Execute o script
 Salve o código em um arquivo **`download.js`** e execute:
 ```sh
-node download.js
+node index.js
 ```
 
 O script acessará cada episódio, extrairá a URL do vídeo e iniciará o download automaticamente.
@@ -37,5 +37,5 @@ O script acessará cada episódio, extrairá a URL do vídeo e iniciará o downl
 Sinta-se à vontade para melhorar o script ou sugerir mudanças!
 
 ---
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por Anderson Richard De Souza + Chatgpt
 
