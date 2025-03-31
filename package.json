@@ -1,0 +1,9 @@
+{
+  "name": "Baixa_qualquercoisa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  }
+}
